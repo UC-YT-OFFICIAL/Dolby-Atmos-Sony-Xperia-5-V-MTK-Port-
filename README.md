@@ -44,6 +44,11 @@ This version fixes those problems and improves compatibility with MTK devices.
 - Root (Magisk / KernelSU / etc.)
 - Android 11+
 - arm64-v8a architecture
+- kernelsu - required magic mount (any meta module)
+
+- grant root access (both apk)
+- com.dolby.daxappui2
+- com.dolby.daxservice
 
 ---
 
