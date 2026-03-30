@@ -26,6 +26,7 @@ This version fixes those problems and improves compatibility with MTK devices.
 
 - Fixed bootloop issue on MTK devices
 - Fixed RIL issue (No SIM detected)
+- Cmf 1 Pq Conflict Fixed 
 - Improved compatibility with Dimensity chipsets
 - Cleaned and optimized module behavior
 
