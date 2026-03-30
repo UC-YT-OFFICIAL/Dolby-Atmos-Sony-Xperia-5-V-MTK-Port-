@@ -50,6 +50,7 @@ This version fixes those problems and improves compatibility with MTK devices.
 - com.dolby.daxappui2
 - com.dolby.daxservice
 
+ksu User Disable - Disable unmount module by default
 ---
 
 ⚠️ Disclaimer
