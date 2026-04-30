@@ -88,7 +88,7 @@ ksu User Disable - Disable unmount module by default
 📥 Download & Support
 
 - Telegram Group:
-  https://t.me/+lz2xpnKBfacyOWNl
+  [https://t.me/+ypDU6ivVFmk0Njk1]
 
 ---
 
